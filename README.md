@@ -1,23 +1,24 @@
-# Hi, I'm Honzqq_
+# Hi, I'm Honzqq_ 👋
 
 I'm starting with programming and preparing for my IT career.  
 Currently learning **Python**, algorithmic thinking, and the basics of software development.
 
-### What I'm working on
+### What I'm working on 🚀
 - Learning Python from the ground up  
 - Building strong logic and algorithm fundamentals  
 - Getting ready for my IT career  
 - Learning HTML & CSS
 
-### Interests
+### Interests 💡
 - Backend development  
-- Python, HTML, CSS, JavaScript  
+- Frontend basics (HTML , CSS , JavaScript )
+- Python 
 - Creating meaningful projects  
 - Continuous self-improvement
 
-### Goal
+### Goal 🎯
 Become a reliable developer who understands what he's building.
 
 ---
 
-> *"Every expert was once a beginner."*
+> *"Every expert was once a beginner."* 
