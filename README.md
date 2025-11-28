@@ -10,9 +10,8 @@
   - Learning HTML & CSS
 
   ### Interests 💡
-  - Backend development  
-  - Frontend basics (HTML , CSS , JavaScript )
-  - Python 
+  - Frontend development  
+  - Backend basics (Python,...)
   - Creating meaningful projects  
   - Continuous self-improvement
 
