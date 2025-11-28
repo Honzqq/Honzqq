@@ -4,17 +4,17 @@
 
 - 📫 How to reach me **honzqqq@proton.me**
 
-### What I'm working on 🚀
-- Learning Python from the ground up  
-- Building strong logic and algorithm fundamentals  
-- Learning HTML & CSS
+  ### What I'm working on 🚀
+  - Learning Python from the ground up  
+  - Building strong logic and algorithm fundamentals  
+  - Learning HTML & CSS
 
-### Interests 💡
-- Backend development  
-- Frontend basics (HTML , CSS , JavaScript )
-- Python 
-- Creating meaningful projects  
-- Continuous self-improvement
+  ### Interests 💡
+  - Backend development  
+  - Frontend basics (HTML , CSS , JavaScript )
+  - Python 
+  - Creating meaningful projects  
+  - Continuous self-improvement
 
 - ⚡ Fun fact **Curious mind**
 
