@@ -4,6 +4,8 @@
 
 - 📫 How to reach me **honzqqq@proton.me**
 
+- ⚡ Fun fact **Curious mind**
+  
 ### 💡 Focus Areas
 - Frontend development
 - Basic backend concepts
@@ -12,8 +14,6 @@
 - Advanced HTML & CSS techniques  
 - Basic JavaScript fundamentals  
 - Simple web project workflows
-
-- ⚡ Fun fact **Curious mind**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
