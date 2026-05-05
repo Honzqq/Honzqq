@@ -2,7 +2,7 @@
 
 ### A Starter Developer
 
-- 📫 How to reach me **honzqqq@proton.me**
+- 📫 How to reach me **honzqq.dev@proton.me**
 
 - ⚡ Fun fact **Curious mind**
   
